@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/assets/font-awesome/.npmignore": "/assets/font-awesome/.npmignore",
+    "/assets/font-awesome/HELP-US-OUT.txt": "/assets/font-awesome/HELP-US-OUT.txt",
+    "/assets/font-awesome/package.json": "/assets/font-awesome/package.json",
+    "/assets/font-awesome/README.md": "/assets/font-awesome/README.md",
+    "/assets/jquery.js": "/assets/jquery.js",
+    "/assets/bootstrap.js": "/assets/bootstrap.js"
+}
